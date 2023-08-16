@@ -14,7 +14,7 @@ git commit -m "initial commit":takes a snapshot of the current state of file wit
 
 <img width="1440" alt="Screenshot 2023-08-16 at 11 16 51" src="https://github.com/holaroluwa/ola_project2/assets/132553183/08ab393a-52b0-4a8e-bd5f-2521cb5815c8">
 --------------------------------------------------------------------------------------------------------------------------------------
-**Working** **with** **branches**
+**Working** **with branches**
 
 git checkout -b my-new-branch:creating and switching to a new branch 
 
