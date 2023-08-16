@@ -20,4 +20,10 @@ git checkout -b my-new-branch:creating and switching to a new branch
 
 <img width="1440" alt="Screenshot 2023-08-16 at 11 41 18" src="https://github.com/holaroluwa/ola_project2/assets/132553183/dd954ad1-4e7a-499e-b4f5-ae9467b86e61">
 
-     
+git branch:view the list of branches in your git repository
+
+<img width="1440" alt="Screenshot 2023-08-16 at 11 46 42" src="https://github.com/holaroluwa/ola_project2/assets/132553183/1e68549d-fa58-4821-ace1-a5d39ae306c9">
+
+git checkout <branch name>:used to change from one branch into another
+
+<img width="1440" alt="Screenshot 2023-08-16 at 11 49 08" src="https://github.com/holaroluwa/ola_project2/assets/132553183/5b513c89-b2cd-45d9-ab1c-7c38b503c6ec">
