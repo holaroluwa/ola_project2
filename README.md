@@ -27,8 +27,8 @@ git branch:view the list of branches in your git repository
 git checkout <branch name>:used to change from one branch into another
 
 <img width="1440" alt="Screenshot 2023-08-16 at 11 49 08" src="https://github.com/holaroluwa/ola_project2/assets/132553183/5b513c89-b2cd-45d9-ab1c-7c38b503c6ec">
-
-**MERGING A BRANCH INTO ANOTHER BRANCH **
+--------------------------------------------------------------------------------------------------------------------------------------
+MERGING A BRANCH INTO ANOTHER BRANCH 
 
 
 
